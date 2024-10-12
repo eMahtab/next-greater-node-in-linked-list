@@ -1,1 +1,1 @@
-# next-greater-node-in-linked-list
+# Next greater node in linked list
